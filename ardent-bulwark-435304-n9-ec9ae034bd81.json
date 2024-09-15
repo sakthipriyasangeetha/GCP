@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ardent-bulwark-435304-n9",
+  "private_key_id": "ec9ae034bd812ad47c75d65a046a1fd586aa9f80",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDnfvQ9P9y5+rMe\nTkHdknXokXi8BWtU8ef0nIZWj0n8W/strhAt2BDVptwySrkOpCDHLhoxrTRmxRg2\n0fuRcin/Xh5stKPhYgPKRyjr9emM5OVG6XIasw7IOLnpGEYxPjXBv3vffO586ceG\nTuki40GAmjSvfoho5KcBvoKT04y9Q1XggWZzn3LFCnwQ+Yu1uBzaIWstIN3I4qPl\noSvwde8FS4jVmg7GEkh9F/Ga+bVmYlmxG788fXLgYN8EaimCzFH3UkZ+QrMNlXSF\n1SgfFi+VFAsmYpY0dBaW2+8Me/SF8+DzO20l0nNMuPCUcecI2YyM4h7bQX5IlqY0\ndInWrwOfAgMBAAECggEAIWI6gJa0ExHnQMiSUQys+kP4QE0bxF06URk9ekAhsEXn\nfBfs91+AVf9BI/OIqmba3z5zwpQyyVtE+argd4IaMlx1UMHgHEGRQFtwuE53Rr0/\nnzFNJjKKQC+GB+pbPQC2qeEeUQVoMxVXk7PPhRt2t8AFNwWtUEshFmxN0lmgoy5L\ncPsm14WMTKJNbBoFngw4UZOyySA8sKzcmyKehQaMyKwxFRedeOGnPe5rXhmZw62J\n1FelXDrvEcuHf/TKYtQPSEXsv5Pxo8pK+IQunVzOolIDQUAbZ9Yv9NtK/ThY6cV3\nGnorUfuBrPOAAWDm6sOF0DxbgqC4wDRrQp1yy+ItSQKBgQD9EQIOaqfaVMrN3xpC\nbnGY4zmBxqIVbXe1PrJLK0UqZoZoKjuHclp/VFZhc5IZIEjyMn4pHa3q51x/S9wn\nY0KHLsUKUN7l2uowRegAajvQLutx9mX7p6Vt2i1TwduYDC/3IQQ7FNK4R3/4fSvx\nmsNOIEbiUzH2QymHI6/FLjLVfQKBgQDqLe8cJ4LGE0UD3DzoJGs1Y+5SUDqi88SA\naGII13ju5ahXNxDF/jpJucodUVYdqUivQGI4NnoQM3Rs2FHrfRyur2HXSpkaYFAE\nRnNCexeJDjdmQbEfD8HaQEOrxg2ZjcW7SX/uC/A4Cr5Y2WitJMb/nagONoWztvNM\nU7xcLJ3YSwKBgQDYpD7GaLfZSM11AJFSXYoSADOyzYDkJxpbppirkRdc/PgDJGRh\nx5uBdYmdU3q219Sawm8Oc8H3XqjosOB/N5I0d+1mr2SiEY56VN4PvOIHjqMwpGcZ\n0KLmL+it0z9SItzNCw68JU9fQpZi+4UrB/o6X5dPGTmkQErEzeAjRTFvYQKBgQCz\nMcUHkUBjm3kzNAMzTDLxXu+N8zB7YvdZnwZtZ5x1ii0f19Yw+5HUuqNrfcLc3Z3t\n5OGDzEPpQ8ZyR7Gf9lPNZA0FdmLjqRFxxAsMsy5WRRelWt1TPHaFMKnXtqzPdIn6\n/4oyONZvu+DeEjckTsEr9pMTlSsIUxWnsWewTL/YMwKBgD5+TSJ2JZYdoyWvjPuV\nhp8qj+Dir+Jn6uEOal/b3357v1izKWGBGTxXloy5q4YzfT7D0LF5NNAMg4vtxjvG\nlOOyIve6V82cT5VTfZpHABusMsJ+dyUXwFRdMc3W6IXT6ZsAGWjHhHtw1TcA2jq2\nWWCoNvUd+Txe01RORoYeyFxk\n-----END PRIVATE KEY-----\n",
+  "client_email": "democloud@ardent-bulwark-435304-n9.iam.gserviceaccount.com",
+  "client_id": "111130824804913071100",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/democloud%40ardent-bulwark-435304-n9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
