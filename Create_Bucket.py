@@ -3,7 +3,7 @@ from google.cloud import storage
 import os
 
 # set key credentials file path
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "C:\ardent-bulwark-435304-n9-ec9ae034bd81.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "ardent-bulwark-435304-n9-ec9ae034bd81.json"
 
 # define function that creates the bucket
 def create_bucket(bucket_name, storage_class='STANDARD', location='us-central1'): 
