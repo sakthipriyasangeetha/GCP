@@ -3,7 +3,7 @@ from google.cloud import storage
 import os
 
 # set key credentials file path
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'D:/VSCode/GitRepos/PythonHacks/GCP_Storage_Bucket_Handling_With_Python/cloudquicklabs-93d1e8c6ac6a.json'
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "ardent-bulwark-435304-n9-ec9ae034bd81.json"
 
 # define function that list files in the bucket
 def list_cs_files(bucket_name): 
